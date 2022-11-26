@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("Welcome to the new environment!");
 		System.out.println("This is Lenovo 13s");
 		System.out.println("This is the third line");
+		System.out.println("This is the fourth line");
 		
 	}
 
