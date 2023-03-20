@@ -1,4 +1,4 @@
-/*
+/*  // Question
 
 You are given an array of k linked-lists lists, each linked-list is sorted in ascending order.
 
@@ -29,6 +29,8 @@ Input: lists = [[]]
 Output: []
 
 */
+
+// Solution
 
 var mergeKLists = function(lists) {   
     let arr = [];
