@@ -1,5 +1,6 @@
 ## 237. Delete Node in a Linked List
-<span style="background-color:#E8E8E8; padding:2px 10px 5px 10px; border-radius:13px; color:gray; font-weight:600" >Medium</span>
+<p> <span style="background-color:#E8E8E8; padding:3px 9px 6px 10px; border-radius:4px; color:gray; font-weight:600" >Medium</span></p>
+<p style="background-color:#E8E8E8; width:54px; padding:2px 9px 4px 10px; border-radius:4px; color:gray; font-weight:600" >Medium</p>
 
 There is a singly-linked list ```head``` and we want to delete a node ```node``` in it.
 
@@ -58,7 +59,7 @@ Explanation: You are given the third node with value 1, the linked list should b
 
 **Topics** <br>
 
-<span style="background-color:#E8E8E8; padding:2px 10px 5px 10px; border-radius:13px; color:black;" >Linked List</span>
+<p> <span style="background-color:#E8E8E8; padding:2px 9px 5px 10px; border-radius:12px;" >Linked List</span></p>
 
 <br>
 
