@@ -1,6 +1,21 @@
+
+<style>
+    .level {
+        background-color:#E8E8E8;
+        padding:3px 9px 6px 10px;
+        border-radius:5px;
+        color:#607d8b;
+        font-weight:600;
+    } 
+    .topics {
+        background-color:#E8E8E8;
+        padding:2px 9px 5px 10px;
+        border-radius:13px;
+    }
+</style>
+
 ## 237. Delete Node in a Linked List
-<p> <span style="background-color:#E8E8E8; padding:3px 9px 6px 10px; border-radius:4px; color:gray; font-weight:600" >Medium</span></p>
-<p style="background-color:#E8E8E8; width:54px; padding:2px 9px 4px 10px; border-radius:4px; color:gray; font-weight:600" >Medium</p>
+<span class="level" >Medium</span>
 
 There is a singly-linked list ```head``` and we want to delete a node ```node``` in it.
 
@@ -59,12 +74,12 @@ Explanation: You are given the third node with value 1, the linked list should b
 
 **Topics** <br>
 
-<p> <span style="background-color:#E8E8E8; padding:2px 9px 5px 10px; border-radius:12px;" >Linked List</span></p>
+<span class="topics" >Linked List</span>
 
 <br>
 
 ### Solution
-``` jsx
+```javascript
 /**
  * Definition for singly-linked list.
  * function ListNode(val) {
