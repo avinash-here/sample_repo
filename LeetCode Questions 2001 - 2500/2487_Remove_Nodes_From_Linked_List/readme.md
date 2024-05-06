@@ -49,7 +49,7 @@ Explanation: Every node has value 1, so no nodes are removed.
 
 **Topics** 
 
-#### Linked List, Stack, Recursion, Monotonic Stack
+##### Linked List, Stack, Recursion, Monotonic Stack
 
 
 <br>
