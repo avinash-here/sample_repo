@@ -1,21 +1,5 @@
-
-<style>
-    .level {
-        background-color:#E8E8E8;
-        padding:3px 9px 6px 10px;
-        border-radius:5px;
-        color:#607d8b;
-        font-weight:600;
-    } 
-    .topics {
-        background-color:#E8E8E8;
-        padding:2px 9px 5px 10px;
-        border-radius:13px;
-    }
-</style>
-
 ## 237. Delete Node in a Linked List
-<span class="level" >Medium</span>
+#### Level: Medium
 
 There is a singly-linked list ```head``` and we want to delete a node ```node``` in it.
 
@@ -72,9 +56,9 @@ Explanation: You are given the third node with value 1, the linked list should b
 
 <br>
 
-**Topics** <br>
+**Topics** 
 
-<span class="topics" >Linked List</span>
+#### Linked List
 
 <br>
 
